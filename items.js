@@ -37,5 +37,5 @@ const items  = [
     {name: 'drugs', isWaste: 'custom', custom: 'depends', explanation: 'im not qualified to tell this to you speak to your doctor or something'}, 
     {name: 'life', isWaste: 'custom', custom: 'depends', explanation: 'If you mean your life, totally, but life in general ... well, I guess, living stuff created money and also ways to waste it, so ... kinda ...'}
     {name: 'linux', isWaste: 'free'}
-    {name: 'rickroll', isWaste: 'custom', custom: '<a href="https://wasteof.money/">click here to find out</a>'}
+    {name: 'rickroll', isWaste: 'custom', custom: '<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">click here to find out</a>'}
 ];
